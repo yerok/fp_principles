@@ -2745,3 +2745,14 @@ INFO  compiling root (1 scala source)
 INFO  time: compiled root in 1.37s
 INFO  compiling root (1 scala source)
 INFO  time: compiled root in 1.21s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.42s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.29s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.48s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.32s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.16s
