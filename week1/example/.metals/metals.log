@@ -2756,3 +2756,8 @@ INFO  compiling root (1 scala source)
 INFO  time: compiled root in 1.32s
 INFO  compiling root (1 scala source)
 INFO  time: compiled root in 1.16s
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+[0m[31m[E][0m BSP server cancelled, closing socket...
+INFO  bloop exit: 0
+Client in /home/jimmy/Work/misc/coursera_scala/week1/example/.bloop triggered cancellation. Cancelling tasks...
